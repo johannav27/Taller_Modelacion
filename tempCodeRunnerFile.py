@@ -1,0 +1,1 @@
+nt(resolucion_Ax_b(A_ejemplo, b_ejemplo))
